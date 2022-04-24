@@ -4,13 +4,15 @@
 
 👨🏼‍💻 building [tomari3.com][website]  
 🧠 learning [nextjs][next], [react][react]  
-💜 loving [nodejs][node], [mongodb][mongodb], [css][css] (really) 
+💜 loving [nodejs][node], [mongodb][mongodb], [css][css]
 
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin]
 
-[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
+
 [react]: http://reactjs.org
+[mongodb]: https://www.mongodb.com/
+[css]: https://www.technologyreview.com/
 [node]: https://nodejs.org/en/
 [next]: https://nextjs.org
 [website]: https://tomari3.com

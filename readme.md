@@ -1,6 +1,6 @@
 [![bg][banner]][website]
 
-### Self taught FullStack Developer using the MERN stack (but capable of learning everything)
+### Self taught FullStack Developer using the MERN stack (but capable of learning anything)
 
 👨🏼‍💻 building [tomari3.com][website]  
 🧠 learning [nextjs][next], [react][react]  

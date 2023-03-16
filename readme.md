@@ -1,19 +1,17 @@
-[![bg][banner]][website]
+Hello! I'm Tom. I'm a software developer and passionate about building cool stuff. Currently, I'm working on [Applyer] and learning more about [web automation].
 
-### Self taught FullStack Developer using the MERN stack (but capable of learning anything)
+## Latest Projects
 
-👨🏼‍💻 building [tomari3.com][website]  
-🧠 learning [nextjs][next], [react][react]  
-💜 loving [nodejs][node], [mongodb][mongodb], [css][css]
+Here are some of my latest projects:
 
-🏡 [website][website] **|** 
-👔 [linkedin][linkedin]
+- [Social Network](link)
+- [ADSV](link)
+- [Applyer](link)
 
+## Latest Blog Posts
 
-[react]: http://reactjs.org
-[mongodb]: https://www.mongodb.com/
-[css]: https://www.technologyreview.com/
-[node]: https://nodejs.org/en/
-[next]: https://nextjs.org
-[website]: https://tomari3.com
-[linkedin]: https://www.linkedin.com/in/tom-ari-72034122a/
+Here are some of my latest blog posts:
+
+- [On DRY and consiseness](link)
+- [The algorithm's pregame](link)
+- [The beauty of UI](link)
